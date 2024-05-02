@@ -1,2 +1,2 @@
-# FactorAnalysisSEM
-My personal textbook for PSFQ 6249
+# Iowa Mixed Effects
+Solange's Textbook Version of PSY 5055
